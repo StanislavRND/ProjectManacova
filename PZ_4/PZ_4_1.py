@@ -5,14 +5,9 @@ while True:  # обработка исключений на строку
         N = int(input('Введите число:'))
         while N < 0:  # проверка на отрицательное число
             print('Введите число больше 0')
-            N = int(input('Введите число:'))
+            N = int(input('Введите чис ло:'))
 
-        result = 0  # записывает начальное значение
-        for i in range(1, N + 1):
-            if i % 2 == 0:  # проверка на чётность числа
-                result -= 1 + i / 10
-            else:
-                result += 1 + i / 10
+        result = sum(((-1) ** (i % 2 + 1)) * (1 + i / 10) for i in range(1, N + 1))
         print(round(result, 2))
         break
     except ValueError:

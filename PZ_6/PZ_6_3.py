@@ -9,7 +9,7 @@ N = 5
 my_list = [random.randint(1, 100) for _ in range(N)]
 print("Исходный список:", my_list)
 
-K = 3
+K = 2
 if K >= N or K < 1:
     print("Ошибка: введено неверное число K")
 else:

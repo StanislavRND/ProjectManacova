@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="255c3aa6-1119-45e3-b124-135871d52e5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PZ_11/PZ_11.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_11/PZ_11_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_11/text30.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_10/PZ_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_10/PZ_10.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_9/PZ_9.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_9/PZ_9.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_11/PZ_11.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_11/PZ_11.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +34,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Documents/PycharmProjects/ИС-22/ProjectManakova/reports&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Acer/Documents/PycharmProjects/ИС-22/ProjectManakova/PZ_11"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_11" />
       <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\reports" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PZ_10.1 (1)">
+  <component name="RunManager" selected="Python.PZ_11_2">
     <configuration name="PZ_10.1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectManakova" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +114,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PZ_11_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectManakova" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_11/PZ_11_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="PZ_9.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectManakova" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,34 +156,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectManakova" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PZ_11_2" />
+        <item itemvalue="Python.PZ_11.1" />
         <item itemvalue="Python.PZ_10.1 (1)" />
         <item itemvalue="Python.PZ_9.1" />
-        <item itemvalue="Python.PZ_11.1" />
         <item itemvalue="Python.PZ_10.1" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>

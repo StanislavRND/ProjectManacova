@@ -18,5 +18,5 @@ print(uppercase_text)
 #
 # string = 'I love learning programming, I enjoy it'
 # uppercase_text = ''.join(uppercase_gen(string))
-# print(uppercase_text) 
+# print(uppercase_text)
 

@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="255c3aa6-1119-45e3-b124-135871d52e5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PZ_14/exercises.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_14/radio_stations.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_14/PZ_14_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_14/PZ_14_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_14/exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_14/exercises.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +36,13 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Documents/PycharmProjects/ИС-22/ProjectManakova/PZ_14&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Documents/PycharmProjects/ИС-22/ProjectManakova/reports&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_14" />
       <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\reports" />
+      <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_14" />
       <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -52,7 +50,7 @@
       <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PZ_14_1">
+  <component name="RunManager" selected="Python.exercises">
     <configuration name="PZ_12_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectManakova" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,8 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PZ_14_1" />
         <item itemvalue="Python.exercises" />
+        <item itemvalue="Python.PZ_14_1" />
         <item itemvalue="Python.PZ_13_2" />
         <item itemvalue="Python.PZ_13_1" />
         <item itemvalue="Python.PZ_12_2" />

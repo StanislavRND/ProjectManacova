@@ -4,6 +4,7 @@
 # сериализации и десериализации объектов Python в бинарном формате."""
 import pickle
 
+
 class Bank:
     def __init__(self, amount, rate):
         self.amount = amount
@@ -32,20 +33,17 @@ def save_def(banks, filename):
 
 def load_def(filename):
     with open(filename, 'rb') as f:
-        banks = pickle.load(f)
-    return banks
+        return pickle.load(f)
 
 
 Bank1 = Bank(2500, 7)
 Bank2 = Bank(50000, 10)
 Bank3 = Bank(120000, 12)
 
-
 banks = [Bank1, Bank2, Bank3]
 save_def(banks, 'banks.pkl')
 
 loaded_banks = load_def('banks.pkl')
-
 
 for bank in loaded_banks:
     print(f'На вашем счете {bank.amount} рублей. Процентная ставка {bank.rate} %.')

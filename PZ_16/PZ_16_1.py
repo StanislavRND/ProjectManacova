@@ -4,7 +4,7 @@
 class Bank:
     def __init__(self, amount, rate):
         self.amount = amount
-        self.rate = rate
+        self.rate = rate  
 
     def rate_calculation(self):
         interest_rate = self.amount * (self.rate / 100)

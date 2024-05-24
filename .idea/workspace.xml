@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="255c3aa6-1119-45e3-b124-135871d52e5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PZ_15/PZ_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_15/data_trade_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_15/trade.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_16/PZ_16_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test BD/data_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test BD/saper.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test BD/saper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/PZ_15.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/PZ_16.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_16/pz16_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_17/PZ_17_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_17/PZ_17_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_17/PZ_17_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_17/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/PZ_17.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_16/PZ_16_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_16/PZ_16_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_16/PZ_16_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_16/PZ_16_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_6/PZ_6_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_6/PZ_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_6/PZ_6_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_6/PZ_6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_6/PZ_6_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_7/PZ_7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_7/PZ_7_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,58 +53,19 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\reports" />
+      <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_7" />
+      <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_17" />
+      <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_16" />
       <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_15" />
-      <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_14" />
-      <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_6" />
+      <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_7" />
       <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova" />
       <recent name="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_14" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PZ_16_3">
-    <configuration name="PZ_16_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectManakova" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_16" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_16/PZ_16_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PZ_16_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectManakova" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_16" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_16/PZ_16_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.PZ_17_3 (1)">
     <configuration name="PZ_16_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectManakova" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PZ_17_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectManakova" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_17" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/Task2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_17/PZ_17_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PZ_17_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectManakova" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +116,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_17" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/Task3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_17/PZ_17_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PZ_17_3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectManakova" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_17/PZ_17_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PZ_17_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectManakova" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_17/PZ_17_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PZ_17_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectManakova" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Acer\Documents\PycharmProjects\ИС-22\ProjectManakova\PZ_17\PZ_17_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PZ_16_3" />
-        <item itemvalue="Python.PZ_16_2" />
-        <item itemvalue="Python.PZ_16_1" />
-        <item itemvalue="Python.Task3" />
-        <item itemvalue="Python.Task2" />
+        <item itemvalue="Python.PZ_17_3 (1)" />
+        <item itemvalue="Python.PZ_17_2" />
+        <item itemvalue="Python.PZ_17_1" />
+        <item itemvalue="Python.PZ_17_3" />
+        <item itemvalue="Python.PZ_17_3" />
       </list>
     </recent_temporary>
   </component>
